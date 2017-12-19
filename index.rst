@@ -9,15 +9,15 @@ blockchain
     :titlesonly:
     :caption: 초보자
 
-    cointoken
-    term
+    basic/cointoken
+    basic/term
     
 .. toctree::   
     :maxdepth: 1  
     :titlesonly:
     :caption: 개발자
     
-    intro
+    tech/intro
     
     
 
