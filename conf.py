@@ -243,7 +243,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'algocoding.tex', 'AlgoCoding',
+    (master_doc, 'blockchain.tex', 'Blockchain',
      'JongYun Jung', 'manual'),
 ]
 
@@ -273,7 +273,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'algocoding', 'algocoding Documentation',
+    (master_doc, 'blockchain', 'blockchain Documentation',
      [author], 1)
 ]
 
@@ -287,8 +287,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'algocoding', 'algocoding Documentation',
-     'JongYun Jung', 'algocoding', '알고리즘정리',
+    (master_doc, 'Blockchain', '블록체인 가이드',
+     'JongYun Jung', 'Blockchain', '블록체인',
      'Miscellaneous'),
 ]
 
@@ -320,7 +320,7 @@ texinfo_documents = [
 # would mean that specific document would be compressed
 # regardless of the global pdf_compressed setting.
 pdf_documents = [
- ('index', u'AlgoCoding', u'AlgoCoding doc', u'JongYun Jung'),
+ ('index', u'BlockChain', u'Blockchain doc', u'JongYun Jung'),
 ]
 # A comma-separated list of custom stylesheets. Example:
 pdf_stylesheets = ['sphinx','kerning','a4']
