@@ -10,7 +10,9 @@ blockchain
     :caption: 초보자
 
     basic/cointoken
-    basic/term
+    basic/term    
+    coin/list
+    chain/ethereum
     
 .. toctree::   
     :maxdepth: 1  
