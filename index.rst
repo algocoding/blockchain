@@ -7,19 +7,25 @@ blockchain
 .. toctree::   
     :maxdepth: 1  
     :titlesonly:
-    :caption: 초보자
+    :caption: Starter
 
     basic/cointoken
     basic/term    
     coin/list
-    chain/ethereum
     
 .. toctree::   
     :maxdepth: 1  
     :titlesonly:
-    :caption: 개발자
+    :caption: Developer.
     
     tech/intro
+    chain/ethereum    
     
+.. toctree::   
+    :maxdepth: 1  
+    :titlesonly:
+    :caption: Linux
+    
+    etc/intro
     
 
